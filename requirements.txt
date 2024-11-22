@@ -1,0 +1,7 @@
+openai
+serpapi
+python-dotenv
+tqdm
+pinecone-client
+langchain
+bigtree
